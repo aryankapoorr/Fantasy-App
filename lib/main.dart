@@ -1,6 +1,6 @@
+import 'package:flutter/material.dart';
 import 'package:fantasy_app/drawer.dart';
 import 'package:fantasy_app/routes.dart';
-import 'package:flutter/material.dart';
 import './add_team.dart';
 
 void main() {

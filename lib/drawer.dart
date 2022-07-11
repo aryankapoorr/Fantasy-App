@@ -10,11 +10,11 @@ Widget CreateDrawer(BuildContext context) {
       padding: EdgeInsets.zero,
       children: <Widget>[
         Container(
-          color: Color.fromARGB(126, 110, 179, 235),
+          color: Colors.blue,
           child: DrawerHeader(
             child: Text(
               'Select Page',
-              style: TextStyle(fontSize: 20),
+              style: TextStyle(fontSize: 20, color: Colors.white),
             ),
           ),
         ),
