@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751409126435",
+    "project_id": "fantasy-1aecf",
+    "storage_bucket": "fantasy-1aecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751409126435:android:c98664a9662874091ee596",
+        "android_client_info": {
+          "package_name": "com.example.fantasy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751409126435-oqoi1evaiktkb4ampfrt748j6e4tm9lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTAdvr5pIqiDuglggrXT8S0BnNPazT5CI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751409126435-oqoi1evaiktkb4ampfrt748j6e4tm9lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -194,7 +194,7 @@ class _AddTeamState extends State<AddTeam> {
                             // Process data.
                           }
                         },
-                        child: const Text('Submit'),
+                        child: const Text('Add Team'),
                       ),
                     ),
                   ],
